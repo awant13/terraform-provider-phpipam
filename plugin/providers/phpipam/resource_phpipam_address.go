@@ -1,4 +1,4 @@
-ackage phpipam
+package phpipam
 
 import (
 	"errors"
